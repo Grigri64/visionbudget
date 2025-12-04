@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "visionbudget",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "73687520-480d-4863-a9f1-25c929d69758",
+			"database_name": "db_suivi_des_depenses"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
